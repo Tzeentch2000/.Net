@@ -1,0 +1,5 @@
+C:\Users\guill\source\repos\MyBank\MyBank\MyBank\bin\Release\netcoreapp3.1\publish\MyBank.exe
+C:\Users\guill\source\repos\MyBank\MyBank\MyBank\bin\Release\netcoreapp3.1\publish\MyBank.dll
+C:\Users\guill\source\repos\MyBank\MyBank\MyBank\bin\Release\netcoreapp3.1\publish\MyBank.deps.json
+C:\Users\guill\source\repos\MyBank\MyBank\MyBank\bin\Release\netcoreapp3.1\publish\MyBank.runtimeconfig.json
+C:\Users\guill\source\repos\MyBank\MyBank\MyBank\bin\Release\netcoreapp3.1\publish\MyBank.pdb

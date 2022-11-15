@@ -1,0 +1,15 @@
+C:\Users\guill\source\repos\MyBank2\MyBank2\bin\Debug\net6.0\MyBank2.exe
+C:\Users\guill\source\repos\MyBank2\MyBank2\bin\Debug\net6.0\MyBank2.deps.json
+C:\Users\guill\source\repos\MyBank2\MyBank2\bin\Debug\net6.0\MyBank2.runtimeconfig.json
+C:\Users\guill\source\repos\MyBank2\MyBank2\bin\Debug\net6.0\MyBank2.dll
+C:\Users\guill\source\repos\MyBank2\MyBank2\bin\Debug\net6.0\MyBank2.pdb
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.csproj.AssemblyReference.cache
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.AssemblyInfoInputs.cache
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.AssemblyInfo.cs
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.dll
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\refint\MyBank2.dll
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.pdb
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\MyBank2.genruntimeconfig.cache
+C:\Users\guill\source\repos\MyBank2\MyBank2\obj\Debug\net6.0\ref\MyBank2.dll

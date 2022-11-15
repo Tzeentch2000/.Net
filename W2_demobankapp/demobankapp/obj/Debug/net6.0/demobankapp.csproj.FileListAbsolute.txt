@@ -1,0 +1,15 @@
+/Users/agimenez/demobankapp/bin/Debug/net6.0/demobankapp
+/Users/agimenez/demobankapp/bin/Debug/net6.0/demobankapp.deps.json
+/Users/agimenez/demobankapp/bin/Debug/net6.0/demobankapp.runtimeconfig.json
+/Users/agimenez/demobankapp/bin/Debug/net6.0/demobankapp.dll
+/Users/agimenez/demobankapp/bin/Debug/net6.0/ref/demobankapp.dll
+/Users/agimenez/demobankapp/bin/Debug/net6.0/demobankapp.pdb
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.csproj.AssemblyReference.cache
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.AssemblyInfoInputs.cache
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.AssemblyInfo.cs
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.csproj.CoreCompileInputs.cache
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.dll
+/Users/agimenez/demobankapp/obj/Debug/net6.0/ref/demobankapp.dll
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.pdb
+/Users/agimenez/demobankapp/obj/Debug/net6.0/demobankapp.genruntimeconfig.cache
